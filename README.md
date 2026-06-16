@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Saravana Bhava
 
-<!--
-**sabajobs/sabajobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent Software Engineer with 20+ years of experience building websites, business software, integrations, automation systems, and developer tools.
 
-Here are some ideas to get you started:
+I work directly with founders, startups, and businesses without agency layers, account managers, or outsourced teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+
+* Business websites
+* Custom web applications
+* Internal tools
+* SaaS products
+* API integrations
+* Business automation
+* Developer tools
+* Modernization of existing systems
+
+## How I Work
+
+* Direct communication
+* Written-first collaboration
+* Clear documentation
+* Practical engineering decisions
+* Long-term maintainability
+* Transparent project delivery
+
+## Links
+
+Website: https://sazm.in
+
+Projects: https://projects.sazm.in
+
+Builds: https://build.sazm.in
+
+Blog: https://blog.sazm.in
+
+Support: https://support.sazm.in
+
+## Markets
+
+Primary: United States
+
+Secondary: United Kingdom
+
+Available worldwide.
+
+## Contact
+
+https://sazm.in/contact
