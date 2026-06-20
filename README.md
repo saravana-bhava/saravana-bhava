@@ -152,6 +152,17 @@ Advertising management and reporting platform providing centralized campaign vis
 
 ---
 
+## Professional Interests
+
+- Software Architecture
+- Platform Modernization
+- Performance Engineering
+- AI-Assisted Development
+- Cloudflare & Edge Computing
+- Long-Term Maintainability
+
+---
+
 ## Selected Career Metrics
 
 | Metric                       | Value      |
