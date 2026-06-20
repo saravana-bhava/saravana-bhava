@@ -161,7 +161,7 @@ Advertising management and reporting platform providing centralized campaign vis
 | Industries Served            | 10+        |
 | Leadership Experience        | 15+ Years  |
 | Full-Stack Development       | 20+ Years  |
-| Active Consulting Practice   | Since 2024 |
+| Platform Leadership          | 15+ Years  |
 
 ---
 
