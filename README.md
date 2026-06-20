@@ -1,49 +1,28 @@
 # Hi, I'm Saravana Bhava
 
-Independent Software Engineer with 20+ years of experience building websites, business software, integrations, automation systems, and developer tools.
+Senior Software Engineer with 20+ years of experience building and maintaining production software systems.
 
-I work directly with founders, startups, and businesses without agency layers, account managers, or outsourced teams.
+Over the course of my career, I have delivered 100+ production systems across healthcare, e-commerce, education, media, real estate, nonprofit, and business services industries.
 
-## What I Build
+## Areas of Expertise
 
-* Business websites
-* Custom web applications
-* Internal tools
-* SaaS products
-* API integrations
-* Business automation
-* Developer tools
-* Modernization of existing systems
+- Full-Stack Development
+- Software Architecture
+- Platform Modernization
+- Performance Optimization
+- Cloudflare & Edge Platforms
+- React & Next.js
+- PHP & Laravel
+- API Design & Integrations
 
-## How I Work
+## Current Focus
 
-* Direct communication
-* Written-first collaboration
-* Clear documentation
-* Practical engineering decisions
-* Long-term maintainability
-* Transparent project delivery
+- Modern Web Platforms
+- Performance Engineering
+- AI-Assisted Development
+- Long-Term Maintainability
 
 ## Links
 
-Website: https://sazm.in
-
-Projects: https://projects.sazm.in
-
-Builds: https://build.sazm.in
-
-Blog: https://blog.sazm.in
-
-Support: https://support.sazm.in
-
-## Markets
-
-Primary: United States
-
-Secondary: United Kingdom
-
-Available worldwide.
-
-## Contact
-
-https://sazm.in/contact
+- Website: https://sazm.in
+- Portfolio: https://sazm.in/projects
