@@ -2,7 +2,7 @@
 
 **Senior Software Engineer • Technical Lead • Software Architect**
 
-Designing, building, modernizing, and maintaining production software systems for over 20 years.
+Building, modernizing, and maintaining production software systems for over 20 years.
 
 🌐 https://sazm.in
 
@@ -12,7 +12,7 @@ Designing, building, modernizing, and maintaining production software systems fo
 
 I'm a Senior Software Engineer with 20+ years of experience designing, building, modernizing, and maintaining production software systems.
 
-I've delivered **100+ production systems** across healthcare, finance, e-commerce, education, media, real estate, nonprofit, professional services, and enterprise domains.
+I've delivered **100+ production software systems** across healthcare, finance, education, media, e-commerce, real estate, nonprofit, professional services, and enterprise organizations.
 
 My work focuses on software architecture, platform modernization, technical leadership, full-stack engineering, performance optimization, and AI-assisted engineering—building software that continues delivering business value long after deployment.
 
@@ -36,9 +36,9 @@ My work focuses on software architecture, platform modernization, technical lead
 - Software Architecture
 - Platform Modernization
 - AI Engineering Workflows
+- Technical Leadership
 - Performance Engineering
-- Developer Experience & Automation
-- Cloudflare & Edge Computing
+- Cloud & Edge Computing
 
 ---
 
