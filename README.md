@@ -69,7 +69,7 @@ PostgreSQL • MySQL • Redis
 
 Senior Software Engineering & Architecture Consulting
 
-Software architecture, platform modernization, technical leadership, and engineering insights.
+Architecture consulting, platform modernization, and engineering leadership.
 
 🌐 https://sazm.in
 
@@ -102,10 +102,10 @@ Articles on software architecture, technical debt, modernization, and engineerin
 
 | | |
 |---|---:|
-| Professional Experience | 20+ Years |
+| Experience | 20+ Years |
 | Production Systems | 100+ |
-| Industries Served | 10+ |
-| Technical Leadership | 15+ Years |
+| Industries | 10+ |
+| Leadership | 15+ Years |
 
 ---
 
