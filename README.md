@@ -1,4 +1,4 @@
-# Hi, I'm Saravana Bhava 👋
+# Saravana Bhava
 
 **Senior Software Engineer • Technical Lead • Software Architect**
 
@@ -10,7 +10,7 @@ Building, modernizing, and maintaining production software systems for over 20 y
 
 ## About
 
-I'm a Senior Software Engineer with 20+ years of experience designing, building, modernizing, and maintaining production software systems.
+Senior Software Engineer with 20+ years of experience designing, building, modernizing, and maintaining production software systems.
 
 I've delivered **100+ production software systems** across healthcare, finance, education, media, e-commerce, real estate, nonprofit, professional services, and enterprise organizations.
 
@@ -34,8 +34,8 @@ My work focuses on software architecture, platform modernization, technical lead
 ## Current Focus
 
 - Software Architecture
-- Platform Modernization
 - AI Engineering Workflows
+- Platform Modernization
 - Technical Leadership
 - Performance Engineering
 - Cloud & Edge Computing
