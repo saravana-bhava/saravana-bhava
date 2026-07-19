@@ -1,199 +1,124 @@
-# Hi, I'm Saravana Bhava 👋
+# Saravana Bhava
 
-**Senior Software Engineer | Technical Lead | Full-Stack Architect**
+**Senior Software Engineer • Software Architect • Technical Lead**
 
-I am a software engineer with **20+ years of experience** designing, building, modernizing, and maintaining production software systems.
-
-Over the course of my career, I have delivered **100+ production systems** across healthcare, e-commerce, education, media, real estate, nonprofit, and enterprise domains.
-
-My work focuses on creating scalable, maintainable, performance-driven platforms that solve real business problems while remaining sustainable for long-term growth.
+Building, modernizing, and maintaining business-critical software systems for over 20 years.
 
 ---
 
-## Career Highlights
+## About
 
-* 20+ Years Professional Software Engineering Experience
-* 100+ Production Systems Delivered
-* 15+ Years of Technical Leadership Experience
-* Full Software Development Lifecycle Ownership
-* Extensive Cross-Industry Experience
-* Strong Architecture & Platform Modernization Background
-* Independent Software Engineer & Consultant Since 2024
+I help organizations design, modernize, and maintain business-critical software systems.
+
+Over the past 20+ years, I've delivered **100+ production software systems** across healthcare, finance, education, media, e-commerce, real estate, nonprofit, and enterprise organizations.
+
+My work focuses on software architecture, platform modernization, technical leadership, performance engineering, and building maintainable systems that continue delivering business value for years.
 
 ---
 
-## Areas of Expertise
+## Core Expertise
 
-### Full-Stack Development
-
-Building modern applications from frontend through infrastructure.
-
-### Software Architecture
-
-Designing maintainable, scalable, and business-aligned systems.
-
-### Platform Modernization
-
-Upgrading legacy platforms to modern architectures and workflows.
-
-### Performance Optimization
-
-Improving reliability, scalability, maintainability, and user experience.
-
-### API Design & Integrations
-
-Developing and integrating business-critical systems and services.
-
-### Cloud & Edge Platforms
-
-Building efficient solutions using Cloudflare, Vercel, AWS, and modern deployment workflows.
+- Software Engineering
+- Software Architecture
+- Platform Modernization
+- Technical Leadership
+- System Design
+- Systems Integration
+- Performance Engineering
+- Cloud & Edge Architecture
 
 ---
 
-## Technologies
+## Technology Focus
 
-### Frontend
+**Languages**
 
-* React
-* Next.js
-* Astro
-* TypeScript
-* JavaScript
-* HTML5
-* CSS3
-* Tailwind CSS
+TypeScript • JavaScript • PHP • SQL
 
-### Backend
+**Frameworks**
 
-* PHP
-* Node.js
-* Laravel
-* CodeIgniter
-* REST APIs
-* Authentication Systems
-* Payment Gateway Integrations
+React • Next.js • Astro • Laravel • Node.js
 
-### Databases
+**Infrastructure**
 
-* MySQL
-* PostgreSQL
-* SQLite
-* MongoDB
-* Redis
+Cloudflare • AWS • Vercel • Docker
 
-### CMS Platforms
+**Databases**
 
-* Payload CMS
-* WordPress
-* Joomla
-* Drupal
-
-### Infrastructure
-
-* Cloudflare
-* AWS
-* Google Cloud
-* Vercel
-* Docker
-* Nginx
-* Apache
-* CI/CD
+PostgreSQL • MySQL • Redis
 
 ---
 
 ## Industry Experience
 
-Throughout my career I have delivered solutions for:
-
-* Healthcare & Wellness
-* E-Commerce & Retail
-* Education & Learning
-* Real Estate & Property
-* Media & Publishing
-* Nonprofit Organizations
-* Professional Services
-* Community & Membership Platforms
-* Events & Attractions
-* Business & Enterprise Systems
+- Healthcare
+- Finance
+- E-Commerce
+- Education
+- Media & Publishing
+- Real Estate
+- Nonprofit
+- Professional Services
+- Enterprise Platforms
 
 ---
 
-## Current Projects
+## Featured Projects
 
-### SazM
+### 🚀 SazM
 
-A modern software engineering and consulting platform focused on performance, maintainability, AI discoverability, and long-term platform success.
+Senior Software Engineering & Architecture Consulting
 
-**Website:** https://sazm.in
+Software architecture, platform modernization, technical leadership, and engineering insights.
 
----
+🌐 https://sazm.in
 
-### Reelvo
+### 📚 Project Portfolio
 
-AI-powered content automation platform supporting content generation, publishing workflows, scheduling, and analytics.
+100+ production software systems delivered across multiple industries.
 
----
+🔗 https://sazm.in/projects
 
-### TrustAds
+### ✍️ Engineering Insights
 
-Advertising management and reporting platform providing centralized campaign visibility and performance tracking.
+Articles on software architecture, technical debt, modernization, and engineering leadership.
+
+🔗 https://sazm.in/articles
 
 ---
 
 ## Current Focus
 
-* Modern Web Platforms
-* Platform Modernization
-* Performance Engineering
-* Software Architecture
-* Cloudflare & Edge Computing
-* AI-Assisted Development
-* Long-Term Maintainability
-
----
-
-## Professional Interests
-
 - Software Architecture
 - Platform Modernization
+- Technical Leadership
 - Performance Engineering
-- AI-Assisted Development
+- AI-Assisted Software Development
 - Cloudflare & Edge Computing
-- Long-Term Maintainability
 
 ---
 
-## Selected Career Metrics
+## Career Snapshot
 
-| Metric                       | Value      |
-| ---------------------------- | ---------- |
-| Professional Experience      | 20+ Years  |
-| Production Systems Delivered | 100+       |
-| Industries Served            | 10+        |
-| Leadership Experience        | 15+ Years  |
-| Full-Stack Development       | 20+ Years  |
-| Platform Leadership          | 15+ Years  |
-
----
-
-## Portfolio
-
-### Project Portfolio
-
-https://sazm.in/projects
-
-### Website
-
-https://sazm.in
+| | |
+|---|---:|
+| Professional Experience | 20+ Years |
+| Production Systems | 100+ |
+| Industries Served | 10+ |
+| Technical Leadership | 15+ Years |
 
 ---
 
 ## Connect
 
-* Website: https://sazm.in
-* Portfolio: https://sazm.in/projects
-* Email: [sabajobs@gmail.com](mailto:sabajobs@gmail.com)
+🌐 Website: https://sazm.in
+
+📂 Portfolio: https://sazm.in/projects
+
+💼 LinkedIn: https://linkedin.com/in/saravana-bhava
+
+📧 Email: sabajobs@gmail.com
 
 ---
 
-> Building reliable software, modernizing platforms, solving complex technical problems, and helping businesses succeed through technology.
+> *Designing software that remains maintainable long after it ships.*
