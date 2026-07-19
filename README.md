@@ -61,6 +61,17 @@ Articles on software architecture, platform modernization, engineering leadershi
 
 ---
 
+## Engineering Principles
+
+- Architecture before implementation
+- Maintainability over shortcuts
+- Performance by design
+- Security as a baseline
+- Automation where it adds value
+- Build for long-term ownership
+
+---
+
 ## Connect
 
 - 🌐 Website — https://sazm.in
