@@ -1,18 +1,20 @@
-# Saravana Bhava
+# Hi, I'm Saravana Bhava 👋
 
-**Senior Software Engineer • Software Architect • Technical Lead**
+**Senior Software Engineer • Technical Lead • Software Architect**
 
-Building, modernizing, and maintaining business-critical software systems for over 20 years.
+Building, modernizing, and maintaining production software systems for over 20 years.
+
+🌐 https://sazm.in
 
 ---
 
 ## About
 
-Senior Software Engineer with over 20 years of experience designing, building, modernizing, and maintaining business-critical software systems.
+I'm a Senior Software Engineer with 20+ years of experience designing, building, modernizing, and maintaining production software systems.
 
-I've delivered **100+ production software systems** across healthcare, finance, education, media, e-commerce, real estate, nonprofit, and enterprise organizations.
+I've delivered **100+ production systems** across healthcare, finance, e-commerce, education, media, real estate, nonprofit, professional services, and enterprise domains.
 
-My work focuses on software architecture, platform modernization, technical leadership, performance engineering, and building maintainable software that continues delivering business value long after deployment.
+My work focuses on software architecture, platform modernization, technical leadership, full-stack engineering, performance optimization, AI-assisted engineering, and building software that continues delivering value long after deployment.
 
 ---
 
@@ -20,104 +22,50 @@ My work focuses on software architecture, platform modernization, technical lead
 
 - Software Architecture
 - Software Engineering
-- Platform Modernization
 - Technical Leadership
+- Platform Modernization
 - System Design
+- Full-Stack Engineering
 - Systems Integration
 - Performance Engineering
-- Cloud & Edge Architecture
 
 ---
 
-## Technology Stack
+## Current Focus
 
-**Languages**
-
-TypeScript • JavaScript • PHP • SQL
-
-**Frameworks**
-
-React • Next.js • Astro • Laravel • Node.js
-
-**Infrastructure**
-
-Cloudflare • AWS • Vercel • Docker
-
-**Databases**
-
-PostgreSQL • MySQL • Redis
-
----
-
-## Industry Experience
-
-- Healthcare
-- Finance
-- E-Commerce
-- Education
-- Media & Publishing
-- Real Estate
-- Nonprofit
-- Professional Services
-- Enterprise Platforms
+- Modern Web Architecture
+- AI Engineering Workflows
+- Platform Modernization
+- Cloudflare & Edge Computing
+- Performance Engineering
+- Developer Experience & Automation
 
 ---
 
 ## Featured Projects
 
 ### 🚀 SazM
-
-Senior Software Engineering & Architecture Consulting
-
-Architecture consulting, platform modernization, and engineering leadership.
+Software engineering, architecture, modernization, and technical leadership.
 
 🌐 https://sazm.in
 
-### 📚 Project Portfolio
-
-100+ production software systems delivered across multiple industries.
+### 📂 Project Portfolio
+100+ production software systems, architecture case studies, and engineering highlights.
 
 🔗 https://sazm.in/projects
 
-### ✍️ Engineering Insights
-
-Articles on software architecture, technical debt, modernization, and engineering leadership.
+### 📝 Engineering Insights
+Articles on software architecture, platform modernization, engineering leadership, and AI-assisted development.
 
 🔗 https://sazm.in/articles
 
 ---
 
-## Current Focus
-
-- Software Architecture
-- Platform Modernization
-- Technical Leadership
-- Performance Engineering
-- AI Engineering Workflows
-- Cloudflare & Edge Computing
-
----
-
-## Career Snapshot
-
-| | |
-|---|---:|
-| Experience | 20+ Years |
-| Production Systems | 100+ |
-| Industries | 10+ |
-| Leadership | 15+ Years |
-
----
-
 ## Connect
 
-🌐 Website: https://sazm.in
-
-📂 Portfolio: https://sazm.in/projects
-
-💼 LinkedIn: https://linkedin.com/in/saravana-bhava
-
-📧 Email: sabajobs@gmail.com
+- 🌐 Website — https://sazm.in
+- 💼 LinkedIn — https://linkedin.com/in/saravana-bhava
+- 📧 Email — sabajobs@gmail.com
 
 ---
 
