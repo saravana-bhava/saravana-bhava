@@ -8,18 +8,18 @@ Building, modernizing, and maintaining business-critical software systems for ov
 
 ## About
 
-I help organizations design, modernize, and maintain business-critical software systems.
+Senior Software Engineer with over 20 years of experience designing, building, modernizing, and maintaining business-critical software systems.
 
-Over the past 20+ years, I've delivered **100+ production software systems** across healthcare, finance, education, media, e-commerce, real estate, nonprofit, and enterprise organizations.
+I've delivered **100+ production software systems** across healthcare, finance, education, media, e-commerce, real estate, nonprofit, and enterprise organizations.
 
-My work focuses on software architecture, platform modernization, technical leadership, performance engineering, and building maintainable systems that continue delivering business value for years.
+My work focuses on software architecture, platform modernization, technical leadership, performance engineering, and building maintainable software that continues delivering business value long after deployment.
 
 ---
 
 ## Core Expertise
 
-- Software Engineering
 - Software Architecture
+- Software Engineering
 - Platform Modernization
 - Technical Leadership
 - System Design
@@ -29,7 +29,7 @@ My work focuses on software architecture, platform modernization, technical lead
 
 ---
 
-## Technology Focus
+## Technology Stack
 
 **Languages**
 
@@ -93,7 +93,7 @@ Articles on software architecture, technical debt, modernization, and engineerin
 - Platform Modernization
 - Technical Leadership
 - Performance Engineering
-- AI-Assisted Software Development
+- AI Engineering Workflows
 - Cloudflare & Edge Computing
 
 ---
@@ -121,4 +121,4 @@ Articles on software architecture, technical debt, modernization, and engineerin
 
 ---
 
-> *Designing software that remains maintainable long after it ships.*
+> *Building software that remains reliable, maintainable, and valuable long after it ships.*
