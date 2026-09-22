@@ -4,7 +4,7 @@
 
 Building, modernizing, and scaling production software systems for over 20 years.
 
-[sazm.in](https://sazm.in) • [sazm.in/start](https://sazm.in/start) • [LinkedIn](https://linkedin.com/in/saravanabhava) • sabajobs@gmail.com
+[sazm.in](https://sazm.in) • [sazm.in/start](https://sazm.in/start) • [LinkedIn](https://linkedin.com/in/saravana-bhava) • sabajobs@gmail.com
 
 ---
 
@@ -46,4 +46,4 @@ Through **[SazM](https://sazm.in)**, I provide principal-level engineering overs
 👉 **Have a software challenge or need a technical review?**  
 Submit your brief at **[sazm.in/start](https://sazm.in/start)** to receive a written scope and architectural estimate.
 
-📫 **Direct Contact:** [sabajobs@gmail.com](mailto:sabajobs@gmail.com) | [LinkedIn](https://linkedin.com/in/saravanabhava)
+📫 **Direct Contact:** [sabajobs@gmail.com](mailto:sabajobs@gmail.com) | [LinkedIn](https://linkedin.com/in/saravana-bhava)
