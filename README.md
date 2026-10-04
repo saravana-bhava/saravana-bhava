@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://sazm.in">
+    <img src="https://sazm.in/og-image.png" alt="Saravana Bhava — Principal Full-Stack Engineer & Systems Architect · Founder @ SazM" width="100%" />
+  </a>
+</p>
+
 # Saravana Bhava
 **Principal Full-Stack Engineer · Web Systems Architect · Founder, [SazM](https://sazm.in)**
 
@@ -7,7 +13,7 @@ I operate at the intersection of deep computer science fundamentals (schema norm
 
 📍 **Tirunelveli, Tamil Nadu, India** • 📞 **+91 93805 96836** • ✉️ **[hello@sazm.in](mailto:hello@sazm.in)** • ✉️ **[sabajobs@gmail.com](mailto:sabajobs@gmail.com)**
 
-[Website (sazm.in)](https://sazm.in) • [LinkedIn](https://www.linkedin.com/in/saravana-bhava) • [Resume (PDF)](https://sazm.in/resume.pdf) • [X / Twitter (@saravana_bhava_)](https://x.com/saravana_bhava_) • [SazM Company (@sazmco)](https://x.com/sazmco) • [Architecture Articles](https://sazm.in/articles) • [Free System Audit](https://sazm.in/audit)
+[Website (sazm.in)](https://sazm.in) • [LinkedIn](https://www.linkedin.com/in/saravana-bhava) • [Resume (PDF)](https://sazm.in/resume.pdf) • [X / Twitter (@saravana_bhava_)](https://x.com/saravana_bhava_) • [GitLab](https://gitlab.com/saravanabhava) • [Gravatar](https://gravatar.com/saravanabhavase) • [SazM (@sazmco)](https://x.com/sazmco) • [Architecture Articles](https://sazm.in/articles) • [Free System Audit](https://sazm.in/audit)
 
 ---
 
@@ -91,3 +97,7 @@ I am open to full-time or fractional principal-level roles focused on system arc
 * **LinkedIn:** [linkedin.com/in/saravana-bhava](https://www.linkedin.com/in/saravana-bhava)
 * **Personal X / Twitter:** [@saravana_bhava_](https://x.com/saravana_bhava_)
 * **Company X / Twitter:** [@sazmco](https://x.com/sazmco)
+* **Personal GitLab:** [gitlab.com/saravanabhava](https://gitlab.com/saravanabhava)
+* **Company GitLab:** [gitlab.com/sazmco](https://gitlab.com/sazmco)
+* **Personal Gravatar:** [gravatar.com/saravanabhavase](https://gravatar.com/saravanabhavase)
+* **Stack Overflow:** [stackoverflow.com/users/30762824/saravana-bhava](https://stackoverflow.com/users/30762824/saravana-bhava)
