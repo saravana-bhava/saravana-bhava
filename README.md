@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sazm.in">
-    <img src="https://sazm.in/og-image.png" alt="Saravana Bhava — Principal Full-Stack Engineer & Systems Architect · Founder @ SazM" width="100%" />
+    <img src="https://sazm.in/personal-banner.png" alt="Saravana Bhava — Principal Full-Stack Engineer & Systems Architect · Founder @ SazM" width="100%" />
   </a>
 </p>
 
