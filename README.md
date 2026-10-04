@@ -5,7 +5,9 @@ Building, modernizing, and scaling business-critical web platforms, e-commerce e
 
 I operate at the intersection of deep computer science fundamentals (schema normalization, relational database indexing, caching topologies, API idempotency) and modern AI-accelerated velocity (Claude, OpenAI, Cursor) to deliver type-safe, tested, production-grade software on predictable timelines.
 
-[sazm.in](https://sazm.in) • [LinkedIn](https://www.linkedin.com/in/saravana-bhava) • [Resume (PDF)](https://sazm.in/resume.pdf) • [Architecture Articles](https://sazm.in/articles) • [Free System Audit](https://sazm.in/audit)
+📍 **Tirunelveli, Tamil Nadu, India** • 📞 **+91 93805 96836** • ✉️ **[hello@sazm.in](mailto:hello@sazm.in)** • ✉️ **[sabajobs@gmail.com](mailto:sabajobs@gmail.com)**
+
+[Website (sazm.in)](https://sazm.in) • [LinkedIn](https://www.linkedin.com/in/saravana-bhava) • [Resume (PDF)](https://sazm.in/resume.pdf) • [X / Twitter (@saravana_bhava_)](https://x.com/saravana_bhava_) • [SazM Company (@sazmco)](https://x.com/sazmco) • [Architecture Articles](https://sazm.in/articles) • [Free System Audit](https://sazm.in/audit)
 
 ---
 
@@ -30,14 +32,18 @@ I operate at the intersection of deep computer science fundamentals (schema norm
 
 ### 💼 Career Snapshot (20+ Years · 106+ Systems Shipped)
 
-* **Founder & Principal Software Engineer · [SazM](https://sazm.in)** *(Oct 2024 – Present)*  
-  Operating a high-velocity Development-as-a-Service (DaaS) consultancy delivering full-stack features sequentially on a strict 24–48h SLA. Built the edge-native platform on Astro, Preact islands, Cloudflare Workers, and D1 SQLite with automated payment webhooks and a client self-serve portal.
-* **Senior Engineering Leader & Project Lead · Weismann Web** *(Jan 2018 – Sep 2024)*  
+* **Founder & Principal Software Engineer · [SazM](https://sazm.in)** *(Oct 2024 – Present | Remote)*  
+  Operating a high-velocity Development-as-a-Service (DaaS) consultancy delivering full-stack features sequentially on a strict 24–48h SLA. Built the edge-native platform on Astro 7, Preact islands, Cloudflare Workers, and D1 SQLite with automated payment webhooks and a client self-serve portal.
+* **Senior Engineering Leader & Project Lead · Weismann Web** *(Jan 2018 – Sep 2024 | Remote)*  
   Spearheaded architecture, development, and delivery of 70+ production web applications across e-commerce, healthcare, and B2B. Refactored legacy monoliths, tuned multi-million row MySQL databases (-60% CPU utilization), and instituted written-first technical governance.
-* **Systems Architect & Team Lead · Vivid Infotech Software Solutions** *(Apr 2010 – Dec 2017)*  
+* **Systems Architect & Team Lead · Vivid Infotech Software Solutions Pvt. Ltd.** *(Apr 2010 – Dec 2017 | Chennai, India / Remote)*  
   Architected multi-tenant web applications, transactional enterprise portals, and secure payment integrations. Mentored a distributed team of 10+ engineers. Awarded the prestigious **"Pillar of VIVID" Award (2015)** for architecture contributions and delivery excellence.
-* **Earlier Systems Roles · IMedia / Infowave Knowledgeware / Web Engineering** *(2004 – 2010)*  
-  Engineered online booking engines, normalized database schemas, and enterprise web applications across healthcare and education sectors.
+* **Software Solutions Architect · IMedia** *(Jan 2010 – Mar 2010 | Remote)*  
+  Engineered API-driven architectural specifications and secure payment processing workflows for dynamic online booking engines and e-commerce portals.
+* **Lead Systems Engineer · Infowave Knowledgeware** *(Oct 2006 – Dec 2009 | Remote / India)*  
+  Engineered enterprise-grade web applications across education, healthcare, and real estate sectors; drove core system architecture and database schema normalization.
+* **Software Engineer · Early Career Web & Systems Engineering** *(Jun 2004 – Sep 2006 | India)*  
+  Architected and developed dynamic web portals, database-driven business applications, and automated reporting tools utilizing PHP, MySQL, Apache, and Linux (LAMP).
 
 ---
 
@@ -69,9 +75,19 @@ I am open to full-time or fractional principal-level roles focused on system arc
 
 ---
 
-### 🎓 Education & Credentials
+### 🎓 Education, Honors & Certifications
 
-* **Bachelor of Engineering (B.E.) in Information Technology — First Class** (2000 – 2004) · Manonmaniam Sundaranar University
+* **Bachelor of Engineering (B.E.) in Information Technology — First Class** (2000 – 2004) · Manonmaniam Sundaranar University, Tamil Nadu, India
 * **Pillar of VIVID Award (2015)** — Technical leadership & systems architecture excellence
-* **Sun Certified Java Programmer (SCJP) (2006)**
-* **NetPro Certified Networking Engineer (2004)**
+* **Sun Certified Java Programmer / C & Java Certification (SCJP)** (2006)
+* **NetPro Certified Networking Engineer** (2004)
+
+---
+
+### 🌐 Related Profiles & Organizations
+
+* **SazM Organization:** [github.com/sazmco](https://github.com/sazmco)
+* **SazM Tech:** [github.com/sazmtech](https://github.com/sazmtech)
+* **LinkedIn:** [linkedin.com/in/saravana-bhava](https://www.linkedin.com/in/saravana-bhava)
+* **Personal X / Twitter:** [@saravana_bhava_](https://x.com/saravana_bhava_)
+* **Company X / Twitter:** [@sazmco](https://x.com/sazmco)
