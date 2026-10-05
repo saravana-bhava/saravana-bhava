@@ -11,7 +11,7 @@ Building, modernizing, and scaling business-critical web platforms, e-commerce e
 
 I operate at the intersection of deep computer science fundamentals (schema normalization, relational database indexing, caching topologies, API idempotency) and modern AI-accelerated velocity (Claude, OpenAI, Cursor) to deliver type-safe, tested, production-grade software on predictable timelines.
 
-📍 **Worldwide** • 📞 **+91 93805 96836** • ✉️ **[hello@sazm.in](mailto:hello@sazm.in)** • ✉️ **[sabajobs@gmail.com](mailto:sabajobs@gmail.com)**
+📍 **Worldwide** • ✉️ **[hello@sazm.in](mailto:hello@sazm.in)** • ✉️ **[sabajobs@gmail.com](mailto:sabajobs@gmail.com)**
 
 [Website (sazm.in)](https://sazm.in) • [LinkedIn](https://www.linkedin.com/in/saravana-bhava) • [Resume (PDF)](https://sazm.in/resume.pdf) • [X / Twitter (@saravana_bhava_)](https://x.com/saravana_bhava_) • [GitLab](https://gitlab.com/saravanabhava) • [Gravatar](https://gravatar.com/saravanabhavase) • [SazM (@sazmco)](https://x.com/sazmco) • [Architecture Articles](https://sazm.in/articles) • [Free System Audit](https://sazm.in/audit)
 
