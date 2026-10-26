@@ -5,7 +5,7 @@
 # Saravana Bhava
 **Senior Full-Stack Developer (React, Node.js, PHP)**
 
-Full-stack developer with 20 years of production experience (2006 – present), most of it building e-commerce and business websites for US clients. Over 14 years as lead developer for US agency Weismann Web (1,000+ projects for 300+ clients, per the CEO's reference letter) and five years as a Project Manager at Vivid Infotech, leading teams of 5+ developers. Deep in PHP, MySQL and JavaScript across WordPress/WooCommerce, OpenCart, Magento, Shopify, CodeIgniter and Laravel; current work in TypeScript, React, Next.js, Node.js, Python/Flask and Supabase/PostgreSQL.
+Full-stack developer with 20+ years of production experience (2006 – present), most of it building e-commerce and business websites for US clients. Over 14 years as lead developer for US agency Weismann Web (1,000+ projects for 300+ clients, per the CEO's reference letter) and five years as a Project Manager at Vivid Infotech, leading teams of 5+ developers. Deep in PHP, MySQL and JavaScript across WordPress/WooCommerce, OpenCart, Magento, Shopify, CodeIgniter and Laravel; current work in TypeScript, React, Next.js, Node.js, Python/Flask and Supabase/PostgreSQL. Since October 2024, independent freelance developer on client projects (Blabber.ai, Trust Ads / Social Suite, Reelvo). Available immediately for remote roles.
 
 📍 **India · Remote** • ✉️ **[sabajobs@gmail.com](mailto:sabajobs@gmail.com)** • Available immediately
 
